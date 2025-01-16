@@ -1,8 +1,8 @@
 <h2 align="center">
-Shopping Page <br/>
+QR-Generator-Backend <br/>
 </h2>
 <div align="center">
-  <img alt="Demo" src="./shoppping-page.png" />
+  <img alt="Demo" src="" />
 </div>
 
 <br/>
