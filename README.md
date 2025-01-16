@@ -1,15 +1,13 @@
 <h2 align="center">
 QR-Generator-Backend <br/>
 </h2>
-<div align="center">
-  <img alt="Demo" src="" />
-</div>
 
 <br/>
 
 <center>
  
 [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) &nbsp;
+[![Made with Node.js](https://img.shields.io/badge/Made_with-Node.js-green)](https://nodejs.org) &nbsp;
 ![GitHub Repo stars](https://img.shields.io/github/stars/ManojParkale/QR-Generator-Backend?color=red&logo=github&style=for-the-badge) &nbsp;
 ![GitHub forks](https://img.shields.io/github/forks/ManojParkale/QR-Generator-Backend?color=red&logo=github&style=for-the-badge)
 
