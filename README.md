@@ -36,6 +36,7 @@ Ideal for exploring modern web development and UI design!
 ## Built With
 
 - JavaScript
+- Node.js
 - VsCode
 
 The page will reload if you make edits.
