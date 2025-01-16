@@ -28,6 +28,7 @@ You can fork this repo to modify and make changes of your own. Please give me pr
 <br/>
 
 ## Description:
+This Node.js project prompts the user for a URL, generates a QR code using the `qr-image` package, and saves it as a PNG file (`qr_img.png`). Additionally, the URL is stored in a text file (`URL.txt`). It uses `inquirer` for user input and `fs` for file operations.
   
 
 Ideal for exploring modern web development and UI design!
